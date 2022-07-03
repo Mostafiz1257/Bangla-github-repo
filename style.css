@@ -1,0 +1,12 @@
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellowgreen;
+}
+.abd{
+    background-color: brown;
+    margin: 100px;
+    border: 10px solid green;
+    border-radius: 25px;
+   
+    color: red;
+}
